@@ -7,8 +7,8 @@
 
 ## 2.2. CUSTOMER/USER JOURNEY CON MERMAID: [Mermaid.live](https://mermaid.live/edit#pako:eNpVjUFvgkAQhf_KZk5tggYBQfbQpGLrxaQ9eCp4mMjIEmWXLEusBf57F0zTdk4z733vTQdHlRNwOF3U9ShQG7bfZJLZeU4TocvGVNgc2Gz21G_JsEpJuvVs_bBVrBGqrktZPN759QixpNuNGDEjSnke7lYy5d8k9WyT7rA2qj78dfZX1bOXtHwXtv6_IzTZ1Gt6Qn7C2RE1S1BPCDhQ6DIHbnRLDlSkKxxP6EY3AyOoogy4XXPU5wwyOdhMjfJDqeonplVbCLDdl8ZebZ2joU2JhcZfhGROOlGtNMAX0VQBvINP4L4bzBeRG0ee74VhHHuhAzcrL-eBHwVRbLVVELqrYHDga_rqzlfRcvgGKANzSw)
 
-> Teniendo en cuenta lo anterior, diseña un gráfico tipo 'journey' en una caja de código mermaid.js que represente el flujo de usuario para dicho modelo de negocio. Considera el paradigma de las 5A's de Philip Kotler el cual describe las etapas clave del viaje del comprador en la era digital (Atención, Atracción, Averiguación, Acción y Apología). Ten presente por favor, que es imperativo guiarte por el siguiente modelo de código mermaid.js, representar los 3 roles o actores involucrados en cada paso del flujo (usuario, sistema y otros) y NO incluir caracteres especiales en la salida, como por ejemplo: (|_->=-<#´'):
-> journey
+> Teniendo en cuenta lo anterior, diseña un gráfico tipo 'journey' en una caja de código mermaid.js que represente el flujo de usuario para dicho modelo de negocio. Considera el paradigma de las 5A's de Philip Kotler el cual describe las etapas clave del viaje del comprador en la era digital (Atención, Atracción, Averiguación, Acción y Apología). Es imperativo guiarte por el siguiente modelo de código mermaid.js. Debes representar los tres roles o actores involucrados en cada paso del flujo usuario sistema y otros. Sin embargo, adicionalmente debes indicar de forma clara el actor dominante en cada fase del journey asignándole el mayor valor dentro de cada sección. Asegúrate de que en cada sección exista coherencia entre las acciones y el actor dominante, de manera que este tenga mayor peso en la interacción principal de esa etapa. NO incluir caracteres especiales en la salida, como por ejemplo: (|_->=-<#´'):
+journey
   title Customer Journey
     section ATENCIÓN
       Buscar el producto o servicio: 5: Usuario
