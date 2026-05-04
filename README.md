@@ -1,4 +1,4 @@
-# 📣 Diplomado en Negocios en Medios Digitales
+# 📣 Diplomado en Medios Digitales
 > Repositorio de prompts y recursos para el Diplomado en Medios Digitales.  
 > Organización: [7techdev-edu](https://github.com/7techdev-edu)
 
